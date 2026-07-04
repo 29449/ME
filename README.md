@@ -15,4 +15,4 @@ Tech Stack
 - RDKit
 - Linux
 
-Email：211124120006@zjut..edu.cn
+Email：211124120006@zjut.edu.cn
